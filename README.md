@@ -1,4 +1,4 @@
 # healthcare_capstone
 
-- [map](./gpminder.html)
+- [cluster map](./cluster_map.html)
 
