@@ -1,1 +1,2 @@
-# healtcare_capstone
+# healthcare_capstone
+
